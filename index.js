@@ -2923,4 +2923,3 @@ async function handleAudioTranscription(request) {
         });
     }
 }
-
