@@ -28,4 +28,3 @@ name = "tts-voice-magic-staging"
 # 路由配置
 [triggers]
 crons = []
-
